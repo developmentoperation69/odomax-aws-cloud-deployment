@@ -57,9 +57,9 @@ An SNS topic was configured for alarm notifications.
 
 ## Architecture Diagram
 
-See the AWS architecture diagram in:
+See the AWS architecture diagram here:
 
-`docs/Codomax-AWS-Cloud-Deployment-Architecture.pdf`
+[Download AWS Architecture Diagram](Codomax-AWS-Cloud-Deployment-Architecture.pdf)
 
 ## Project Learning Outcomes
 
@@ -75,4 +75,4 @@ See the AWS architecture diagram in:
 
 Codomax Digital Solution – DevOps & AWS Internship
 
-GitHub Repository: https://github.com/developmentoperation69/odomax-aws-cloud-deployment
+GitHub Repository: https
